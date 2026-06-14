@@ -4,6 +4,7 @@
 
 A modern **AI-powered search and chat assistant** that combines web search (DuckDuckGo) with advanced language models (Gemini + OpenRouter) to generate intelligent, context-aware responses.
 
+[▶ Watch Demo Video Of Basic Algebra](https://files.catbox.moe/cxh6gz.mp4)
 ---
 
 ## 🚀 Features
