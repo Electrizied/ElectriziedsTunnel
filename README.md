@@ -89,7 +89,7 @@ You will need:
 Get your key here:
 [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
-### OpenRouter (optional fallback)
+### OpenRouter (both can be used each as a fallback I personally prefer OpenRouter)
 
 Get your key here:
 [https://openrouter.ai/keys](https://openrouter.ai/keys)
