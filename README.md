@@ -69,18 +69,18 @@ openai
 Start the Streamlit app:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
-Then open:
+Then it should open your browser and with it a tab 
 
 ```
-http://localhost:8501
+
 ```
 
 ---
 
-## 🔑 API Keys Required
+## 🔑 API Keys Required (FREE)
 
 You will need:
 
