@@ -18,7 +18,7 @@ openrouter_key = st.sidebar.text_input("OpenRouter API Key", type="password")
 
 gemini_model = st.sidebar.selectbox(
     "Gemini Model",
-    ["gemini-1.5-flash", "gemini-1.5-pro"]
+    ["gemini-2.5-flash", "gemini-2.5-flash-lite"]
 )
 
 openrouter_model = st.sidebar.selectbox(
