@@ -23,7 +23,7 @@ gemini_model = st.sidebar.selectbox(
 
 openrouter_model = st.sidebar.selectbox(
     "OpenRouter Model",
-    ["meta-llama/llama-3.1-8b-instruct"]
+    ["openrouter/free"]
 )
 
 num_results = st.sidebar.slider("Search results", 3, 10, 5)
